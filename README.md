@@ -51,7 +51,7 @@ Saiket Systems | Dec 2025 – Jan 2026
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/vikassinghlodhi-7398a4387)  
-- [Resume] (https://drive.google.com/file/d/1cGyK3zs2GppXP6VPTbrAQMsgIm8kxtBg/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1cGyK3zs2GppXP6VPTbrAQMsgIm8kxtBg/view?usp=sharing)
 - Email: vikassinghlodhi09@gmail.com  
 
 ---
