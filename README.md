@@ -47,13 +47,16 @@ Saiket Systems | Dec 2025 – Jan 2026
 - Power BI Workshop – OfficeMaster (Oct 2025)
 - AI for Business Professionals – HP LIFE (Apr 2026)
 - YUVA AI For All – IndiaAI / TCS iON (Mar 2026)
+- Lifelong Professional Skills - IBM SkillsBuild (Apr 2026)
 - And 3 more Excel & AI certifications
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/vikassinghlodhi-7398a4387)  
 - [Resume](https://drive.google.com/file/d/1r1nbsKrSWpAd5UY2MySOyq9bFa4zHA44/view?usp=drive_link)
-- [credly](https://www.credly.com/users/vikas-singh-lodhi)
-- Email: vikassinghlodhi09@gmail.com  
+- [Credly](https://www.credly.com/users/vikas-singh-lodhi)
+- [Portfolio](https://vikassinghportfolio.lovable.app)
+- Email: vikassinghlodhi09@gmail.com
+  
 
 ---
 
