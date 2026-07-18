@@ -16,12 +16,12 @@ Currently seeking Finance / Financial Analyst / Financial planning & analysis in
 
 ## 💼 Internship Experience
 
-**Audit, Tax & Finance Intern | CA Ankit Paliwal | June 2026 – July 2026**
+**Audit, Tax & Finance Intern | CA Ankit Paliwal | 01 June 2026 – 15 July 2026**
 
 * Assisting in day-to-day accounting operations including preparation of ledgers and vouchers under a practicing Chartered Accountant
 * Building practical understanding of financial recordkeeping, transaction entries, and audit documentation as part of structured CA firm training
 
-**Data Visualization & Analytics Intern | Saiket Systems | Dec 2025 – Jan 2026**
+**Data Visualization & Analytics Intern | Saiket Systems | 25 Dec 2025 – 25 Jan 2026**
 
 * Analyzed telecom customer churn data and identified high-risk segments using Advanced Excel
 * Built MIS dashboards and KPI tracking reports that delivered actionable churn reduction insights
