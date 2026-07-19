@@ -71,7 +71,7 @@ Analytical Thinking • Problem Solving • Attention to Detail • Teamwork
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/vikassinghlodhi-7398a4387)  
-- [Resume](https://drive.google.com/file/d/1bRZYVmHVL0U1bqo1Pl_WhNkPl4LjScvz/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/1MOvptzSpbAKMEDvPEA_gP-lFYXnq8WPZ/view?usp=sharing)
 - [Credly](https://www.credly.com/users/vikas-singh-lodhi)
 - [Portfolio](https://vikassinghportfolio.lovable.app)
 - Email: vikassinghlodhi09@gmail.com
