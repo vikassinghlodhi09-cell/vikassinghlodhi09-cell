@@ -52,24 +52,23 @@ Analytical Thinking • Problem Solving • Attention to Detail • Teamwork
   
 * **Financial Statement Analysis & Forecasting** – Hindustan Unilever Ltd.
 
-HUL Standalone 3-Statement Financial Model (FY21-FY30E) 
-[link](https://docs.google.com/spreadsheets/d/1BTBrUtDu9PXwP0h3k1hY3O7D9r2vsqxI/edit?usp=sharing&ouid=103881578490935420934&rtpof=true&sd=true)
+  HUL Standalone 3-Statement Financial Model (FY21-FY30E)  [link](https://docs.google.com/spreadsheets/d/1BTBrUtDu9PXwP0h3k1hY3O7D9r2vsqxI/edit?usp=sharing&ouid=103881578490935420934&rtpof=true&sd=true)
 
-Built a fully linked three-statement financial model (Income Statement, Balance Sheet, and Cash Flow Statement) for Hindustan Unilever Limited from the ground up, using standalone audited financials sourced directly from HUL's Annual Reports (FY22-FY26).
+  Built a fully linked three-statement financial model (Income Statement, Balance Sheet, and Cash Flow Statement) for Hindustan Unilever Limited from the ground up, using standalone audited financials sourced directly from HUL's Annual Reports (FY22-FY26).
+  
+  Scope of work:
+  • Extracted and cross-verified 6 years of historical financial data (FY21-FY26) against four independently published Annual Reports, reconciling cash balances and P&L figures line by line
+  • Built a structured Assumptions tab with 11 key drivers, applying the appropriate forecasting technique to each based on its historical pattern — simple averaging for stable ratios, trend-line extrapolation (linear regression) for genuine multi-year trends such as payable days and depreciation, and outlier-adjusted averaging for one-off years such as FY25's elevated dividend payout
+    • Modeled 4 years of forward projections (FY27E-FY30E) with full linkage between statements: net profit rolling into retained earnings, capex and depreciation rolling PP&E forward, and cash flow closing cash feeding directly into the balance sheet
+  • Achieved a fully reconciled balance sheet with zero variance between Total Assets and Total Equity & Liabilities across all 10 years, historical and projected
+  • Built a Ratios tab covering profitability (margins, ROE), liquidity (current/quick ratio), efficiency (cash conversion cycle), and leverage (debt-to-equity, interest coverage)
+  • Conducted sensitivity analysis using Excel Data Tables to quantify the impact of key assumptions (revenue growth, COGS%, payable days) on projected profit and cash
 
-Scope of work:
-• Extracted and cross-verified 6 years of historical financial data (FY21-FY26) against four independently published Annual Reports, reconciling cash balances and P&L figures line by line
-• Built a structured Assumptions tab with 11 key drivers, applying the appropriate forecasting technique to each based on its historical pattern — simple averaging for stable ratios, trend-line extrapolation (linear regression) for genuine multi-year trends such as payable days and depreciation, and outlier-adjusted averaging for one-off years such as FY25's elevated dividend payout
-• Modeled 4 years of forward projections (FY27E-FY30E) with full linkage between statements: net profit rolling into retained earnings, capex and depreciation rolling PP&E forward, and cash flow closing cash feeding directly into the balance sheet
-• Achieved a fully reconciled balance sheet with zero variance between Total Assets and Total Equity & Liabilities across all 10 years, historical and projected
-• Built a Ratios tab covering profitability (margins, ROE), liquidity (current/quick ratio), efficiency (cash conversion cycle), and leverage (debt-to-equity, interest coverage)
-• Conducted sensitivity analysis using Excel Data Tables to quantify the impact of key assumptions (revenue growth, COGS%, payable days) on projected profit and cash
+  Tools used: Microsoft Excel (structured formulas, FORECAST.LINEAR, Data Tables, cross-sheet linkages)
+  
+  Key finding: The model's FY30E outcomes are roughly 4x more sensitive to gross-margin/COGS assumptions than to revenue-growth     assumptions, highlighting where forecasting risk is concentrated in this business.
 
-Tools used: Microsoft Excel (structured formulas, FORECAST.LINEAR, Data Tables, cross-sheet linkages)
-
-Key finding: The model's FY30E outcomes are roughly 4x more sensitive to gross-margin/COGS assumptions than to revenue-growth assumptions, highlighting where forecasting risk is concentrated in this business.
-
-Skills: Financial Planning and Analysis (FP&A), Financial Statement Analysis.
+  Skills: Financial Planning and Analysis (FP&A), Financial Statement Analysis.
 
 * **Financial Modelling & Valuation** – Developed DCF and valuation models as part of professional certification. Recently completed a hands-on Financial Modelling & Valuation project, where I built integrated 3-statement financial models and performed DCF & Relative Valuation. I analyzed WACC, capital structure, and conducted sensitivity analysis to evaluate business performance under different scenarios. This project strengthened my ability to transform financial data into actionable insights for investment and strategic decision-making using Advanced Excel.
 
