@@ -48,11 +48,10 @@ Analytical Thinking • Problem Solving • Attention to Detail • Teamwork
 ---
 
 ## 🚀 Key Projects
-* **Power BI Interactive Dashboard** – Created AI-powered interactive dashboards using Power BI (OfficeMaster certified)
   
 * **Financial Statement Analysis & Forecasting** – Hindustan Unilever Ltd.
 
-  HUL Standalone 3-Statement Financial Model (FY21-FY30E)  [link](https://docs.google.com/spreadsheets/d/1BTBrUtDu9PXwP0h3k1hY3O7D9r2vsqxI/edit?usp=sharing&ouid=103881578490935420934&rtpof=true&sd=true)
+  HUL Standalone 3-Statement Financial Model (FY21-FY30E)  [link](https://docs.google.com/spreadsheets/d/1BTBrUtDu9PXwP0h3k1hY3O7D9r2vsqxI/edit?usp=drive_link&ouid=103881578490935420934&rtpof=true&sd=true)
 
   Built a fully linked three-statement financial model (Income Statement, Balance Sheet, and Cash Flow Statement) for Hindustan Unilever Limited from the ground up, using standalone audited financials sourced directly from HUL's Annual Reports (FY22-FY26).
   
@@ -70,7 +69,29 @@ Analytical Thinking • Problem Solving • Attention to Detail • Teamwork
 
   Skills: Financial Planning and Analysis (FP&A), Financial Statement Analysis.
 
-* **Financial Modelling & Valuation** – Developed DCF and valuation models as part of professional certification. Recently completed a hands-on Financial Modelling & Valuation project, where I built integrated 3-statement financial models and performed DCF & Relative Valuation. I analyzed WACC, capital structure, and conducted sensitivity analysis to evaluate business performance under different scenarios. This project strengthened my ability to transform financial data into actionable insights for investment and strategic decision-making using Advanced Excel.
+* ** Britannia Industries DCF Valuation Model (FY21-FY30E)** [link](https://docs.google.com/spreadsheets/d/1SLBa9Cku10lPOysOLYhOBx3RWzUSvMoQ/edit?usp=drive_link&ouid=103881578490935420934&rtpof=true&sd=true)
+
+Built a fully integrated **Discounted Cash Flow (DCF) valuation model for Britannia Industries**, combining historical financial analysis, forward projections, FCFF valuation, WACC calculation, and sensitivity analysis to estimate the company's intrinsic value.
+
+**Scope of work:**
+• Analyzed historical financial performance and identified key operating drivers across revenue, margins, working capital, capex, and profitability
+
+• Built forward financial projections using key business assumptions for revenue growth, operating margins, working-capital requirements, depreciation, and capital expenditure
+
+• Developed a **FCFF-based DCF valuation** by calculating EBIT, NOPAT, D&A, Capex, change in working capital, and Free Cash Flow to Firm
+
+• Calculated **WACC using CAPM, cost of equity, cost of debt, and capital structure assumptions**, and applied it to discount projected FCFF
+
+• Calculated **Terminal Value using the Gordon Growth Method** and derived Enterprise Value, Equity Value, and implied valuation
+
+• Conducted **sensitivity analysis** to assess how changes in WACC and terminal growth assumptions affect the company's implied valuation
+
+**Tools used:** Microsoft Excel (financial modelling, cross-sheet linkages, DCF valuation, WACC, FCFF, sensitivity analysis)
+
+**Key finding:** The DCF analysis highlights the significant impact of **WACC, terminal growth, and operating-margin assumptions** on Britannia's intrinsic valuation, demonstrating the importance of disciplined forecasting and valuation assumptions.
+
+**Skills:** Financial Modelling, DCF Valuation, Financial Statement Analysis, FP&A, WACC, FCFF, Sensitivity Analysis, Microsoft Excel
+
 
 
 
