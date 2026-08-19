@@ -69,7 +69,7 @@ Analytical Thinking • Problem Solving • Attention to Detail • Teamwork
 
   Skills: Financial Planning and Analysis (FP&A), Financial Statement Analysis.
 
-* ** Britannia Industries DCF Valuation Model (FY21-FY30E)** [link](https://docs.google.com/spreadsheets/d/1SLBa9Cku10lPOysOLYhOBx3RWzUSvMoQ/edit?usp=drive_link&ouid=103881578490935420934&rtpof=true&sd=true)
+* **Britannia Industries DCF Valuation Model (FY21-FY30E)** [link](https://docs.google.com/spreadsheets/d/1SLBa9Cku10lPOysOLYhOBx3RWzUSvMoQ/edit?usp=drive_link&ouid=103881578490935420934&rtpof=true&sd=true)
 
 Built a fully integrated **Discounted Cash Flow (DCF) valuation model for Britannia Industries**, combining historical financial analysis, forward projections, FCFF valuation, WACC calculation, and sensitivity analysis to estimate the company's intrinsic value.
 
