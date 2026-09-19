@@ -13,8 +13,8 @@ Currently seeking Finance / Financial Analyst / Financial Planning & Analysis in
 
 ## 💼 Internship Experience
 
-**Finance Intern | The Entrepreneur Network | 14 July 2026 – 15 Oct 2026**
-* Completing a structured 3-month, project-based finance program covering financial statement analysis, corporate valuation, investment research, and market analysis.
+**Finance Intern | The Entrepreneur Network | 11 July 2026 – 13 Sep 2026**
+* Completing a structured 2-month, project-based finance program covering financial statement analysis, corporate valuation, investment research, and market analysis.
 * Conducted ratio analysis (profitability, liquidity, leverage, efficiency) on a listed company's annual report to assess financial performance and business health.
 * Researched and compared financial products — digital payments (UPI, BNPL, wallets), credit/lending instruments, and insurance plans — to understand market dynamics and consumer financial behavior.
 * Present financial research and analysis in daily review sessions; participate in peer Q&A and case-study discussions to strengthen analytical reasoning and communication.
@@ -34,7 +34,7 @@ Currently seeking Finance / Financial Analyst / Financial Planning & Analysis in
 ## 🛠️ Skills & Tools
 
 **Finance & Analytics**
-Financial Analysis • Financial Modelling & Valuation • MIS Reporting • KPI Tracking • Accounting
+Financial Analysis • Financial Modelling & Valuation • KPI Tracking • Accounting • Variance Analysis • Budgeting & Forecasting
 
 **Excel, Tally & BI**
 Advanced Excel (VLOOKUP/XLOOKUP, Pivot Tables, SUMIF, Charts) • Power BI (Interactive Dashboards) • Google Sheets • Tally (GST, Audit, Payroll)
