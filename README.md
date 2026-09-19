@@ -75,15 +75,10 @@ Analytical Thinking • Problem Solving • Attention to Detail • Teamwork
 
    **Scope of work:**
    • Analyzed historical financial performance and identified key operating drivers across revenue, margins, working capital, capex, and        profitability
-
   • Built forward financial projections using key business assumptions for revenue growth, operating margins, working-capital                  requirements, depreciation, and capital expenditure
-
   • Developed a **FCFF-based DCF valuation** by calculating EBIT, NOPAT, D&A, Capex, change in working capital, and Free Cash Flow to Firm
-
   • Calculated **WACC using CAPM, cost of equity, cost of debt, and capital structure assumptions**, and applied it to discount projected   FCFF
-
   • Calculated **Terminal Value using the Gordon Growth Method** and derived Enterprise Value, Equity Value, and implied valuation
-
   • Conducted **sensitivity analysis** to assess how changes in WACC and terminal growth assumptions affect the company's implied            valuation
 
   **Tools used:** Microsoft Excel (financial modelling, cross-sheet linkages, DCF valuation, WACC, FCFF, sensitivity analysis)
